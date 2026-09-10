@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "research_corp": "./main.py:app"
+  },
+  "env": ".env"
+}

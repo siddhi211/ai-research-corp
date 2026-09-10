@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-anthropic
+arxiv
+newspaper3k
+python-dotenv
